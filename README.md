@@ -1,8 +1,4 @@
 # latent_nbr_hsgp
-Model to estimate latent manifold from neighborhood of cells used to explain their gene expression (based on Hilbert Space Gaussian Processes)
+This repository contains the main and helper scripts to model and evaluate gene expression from local cellular neighborhood information in tumor stratified tissues. This is done, in order to estimate a 2D latent manifold along which expression could be changing. 
 
-To-do
-- clear slop
-- add abstract
-- add usage pipeline
-- add analysis notebooks ?
+To do - better detail this repo 
